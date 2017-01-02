@@ -6,3 +6,5 @@ ipch/
 *.suo
 *.vcxproj.filters
 *.vcxproj.user
+build*
+*.user

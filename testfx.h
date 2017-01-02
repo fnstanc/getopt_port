@@ -7,6 +7,7 @@
 #include <stdexcept>
 #include <stdio.h>
 #include <sstream>
+#include <cstring>
 
 // Test registration
 typedef void (*testfunction)();
